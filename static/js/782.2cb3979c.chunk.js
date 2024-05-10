@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[782],{2782:function(e,c,t){e.exports=t.p+"static/media/Travel.e9f1a5064b56713d7c26.png"}}]);

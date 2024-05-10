@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[631],{4631:function(e,c,t){e.exports=t.p+"static/media/Dog.9c653a8372fe5d8f36ed.png"}}]);

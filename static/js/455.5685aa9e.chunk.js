@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[455],{3455:function(e,t,a){e.exports=a.p+"static/media/INFP.0f89f47b4fbaa41df9a7.png"}}]);
